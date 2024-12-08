@@ -1,4 +1,4 @@
-const cacheName = "roman.kolychev-Chang-1.0.2";
+const cacheName = "roman.kolychev-Chang-0.0.11";
 const contentToCache = [
     "Build/Chang.loader.js",
     "Build/Chang.framework.js",
