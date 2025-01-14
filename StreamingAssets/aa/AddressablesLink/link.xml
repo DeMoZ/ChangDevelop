@@ -3,6 +3,7 @@
     <type fullname="Chang.LessonConfig" preserve="all" />
     <type fullname="Chang.PhraseConfig" preserve="all" />
     <type fullname="Chang.QuestionConfig" preserve="all" />
+    <type fullname="Chang.QuestMatchWords" preserve="nothing" serialized="true" />
     <type fullname="Chang.QuestSelectWord" preserve="nothing" serialized="true" />
     <type fullname="Chang.Translation" preserve="nothing" serialized="true" />
     <type fullname="Chang.WordConfig" preserve="nothing" serialized="true" />
